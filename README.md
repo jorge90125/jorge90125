@@ -2,7 +2,7 @@
 
 ## Engineering a more beautiful and practical world. 🌎 💗 🌍 💗 🌏
 ### Greetings!
-I'm currrently a software engineering student in the SEI Flex program at General Assembly. While we're currently focusing on front-end development, my interests lie in back-end devolpment and tying the different functions of different websites together. With my background in civil engineering, I hope to explore the areas of CAD software and secure payment portals, utilizing my passion for contextualization and functionality. Feel free to reach out if you want to utilize something I've created, or if you just want to network and establish contact!
+I'm a software engineering student from Austin, Texas currently enrolled in the SEI Flex program at General Assembly. While we're currently focusing on front-end development, my interests lie in back-end devolpment and tying the different functions of different websites together. With my background in civil engineering, I hope to explore the areas of CAD software and secure payment portals, utilizing my passion for contextualization and functionality. Feel free to reach out if you want to utilize something I've created, or if you just want to network and establish contact!
 
 ### Room for growth 🌱🌱🌱
 Areas of learning and continuing education:
