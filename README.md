@@ -4,7 +4,7 @@
 ### Greetings!
 I'm a software engineering graduate from Austin, Texas. I completed the SEI Flex program at General Assembly in November 2022. While we learnerd many useful languages, I do mostly enjoy working both frontend and backend with languages like React, Sql, Python, Flask, and Javascript. With my background in civil engineering, I hope to explore the areas of CAD software and secure payment portals, utilizing my passion for contextualization and functionality. However, I am very open-minded to other areas of work as well. Feel free to reach out if you want to utilize something I've created, or if you just want to network and establish contact!
 
-### Check out my [PORTFLIO!](https://jorge90125.github.io)
+### Check out my [PORTFLIO!](https://jorge90125.github.io/jg-portfolio/)
 
 ### Room for growth 🌱🌱🌱
 Areas of current knowledge and learning:
